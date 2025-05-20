@@ -30,6 +30,9 @@
         "laminas/laminas-mail": "^2.19.0",
         "phpunit/phpunit": "~9.5.25"
     },
+    "replace": {
+        "laminas/laminas-mime": "*"
+    },
     "suggest": {
         "laminas/laminas-mail": "Laminas\\Mail component"
     },
